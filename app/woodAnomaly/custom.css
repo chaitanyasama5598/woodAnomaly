@@ -1,0 +1,47 @@
+
+/* Body Color*/
+body{
+	background-color: black;
+}
+
+
+
+/* App Body CSS */
+.stApp {
+	border: 1px solid grey;
+}
+
+/* Hiding Menu and Footer*/
+/*#MainMenu {
+	visibility: hidden;
+}*/
+
+footer {
+	visibility: hidden;
+}
+
+/* Color and alignment of button*/
+.stButton{
+	text-align:right;
+}
+
+.block-container {
+	padding: 2rem;
+}
+
+.css-hxt7ib{
+	padding: 1rem
+}
+
+th {
+	background-color: rgb(39, 51, 70);
+	font-size: 12px;
+}
+
+td {
+	font-size: 12px;
+}
+
+img{
+	height: 25rem;
+}
